@@ -1,3 +1,7 @@
+> NOTE: HARPLab is no longer using this project and it has been protected. Please update all references to
+> https://github.com/HARPLab/harplab-rosinstalls
+> and stop using this package when you can.
+
 # ROS Installs
 
 This repository contains [wstool](https://github.com/vcstools/wstool) "rosinstall" files for the 
