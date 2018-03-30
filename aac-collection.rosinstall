@@ -1,0 +1,6 @@
+- git:
+    local-name: aac_collection
+    uri: git@github.com:HARPLab/aac_collection.git
+- git:
+    local-name: zed_ros_recorder
+    uri: git@github.com:HARPLab/zed_ros_recorder.git
